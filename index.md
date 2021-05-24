@@ -2,4 +2,4 @@
 layout: default
 ---
 
-## Welcome to FlibbzApps ##
+## FlibbzApps
